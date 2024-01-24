@@ -180,7 +180,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"next@npm:canary":
+"next@npm:14.1.1-canary.7":
   version: 14.1.1-canary.7
   resolution: "next@npm:14.1.1-canary.7"
   dependencies:
@@ -280,7 +280,7 @@ __metadata:
   dependencies:
     "@types/node": 20.4.5
     "@types/react": 18.2.18
-    next: canary
+    next: 14.1.1-canary.7
     react: ^18.2.0
     react-dom: ^18.2.0
     typescript: 5.1.3
